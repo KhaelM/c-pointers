@@ -1,0 +1,1 @@
+A set of programs which show some behavior and possibilities of c pointers.
